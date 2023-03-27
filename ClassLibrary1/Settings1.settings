@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ClassLibrary1" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Connection" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Server=tcp:keklol3.database.windows.net,1433;Initial Catalog=Shop;Persist Security Info=False;User ID=keklol;Password=kenanman1!;MultipleActiveResultSets=False;Encrypt=False;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Server=tcp:keklol3.database.windows.net,1433;Initial Catalog=Shop;Persist Security Info=False;User ID=keklol;Password=kenanman1!;MultipleActiveResultSets=False;Encrypt=False;</Value>
+    </Setting>
+    <Setting Name="UserId" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
